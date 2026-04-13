@@ -7,7 +7,9 @@
 
 /* —— body + fonts —— */
 body {
-  font-family: "Roman", italic, sans-serif;
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: light;
+  font-style: italic;
   color: #333;
   display: flex;
   justify-content: center;
