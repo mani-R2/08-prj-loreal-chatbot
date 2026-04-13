@@ -7,7 +7,7 @@
 
 /* —— body + fonts —— */
 body {
-  font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  font-family: "Roman", italic, sans-serif;
   color: #333;
   display: flex;
   justify-content: center;
@@ -28,6 +28,7 @@ body {
   font-size: 22px;
   font-weight: 500;
   margin-bottom: 10px;
+  color: #e3a535;
 }
 
 /* chat window */
@@ -81,7 +82,7 @@ body {
 
 .chat-form button {
   font-size: 18px;
-  background: #000;
+  background: #ff0038;
   color: #fff;
   border: none;
   padding: 12px;
